@@ -1,6 +1,6 @@
-//This calculator can only handle operations with two numbers at a time
+//This calculator can only handle operations with two numbers at a time (can take multiple digits per number).
 //As I'm unsure of how to store an unlimited number of variables (generating and deleting as needed) to store the numbers being operated on
-//And implementing order of operations seems complicated in that circumstance.
+//And implementing order of operations seems like it would be tricky.
 
 /*-------------------------------- Constants --------------------------------*/
 
